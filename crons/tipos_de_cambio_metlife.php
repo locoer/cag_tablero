@@ -79,8 +79,6 @@ $mensaje = "
 	</ul>
 	<p>¡Besos!</p>
 ";
-$headers = "From: operaciones@cohenag.com\r\nContent-type: text/html\r\n";
-//mail("erick@cohenag.com", "Tipo de cambio MetLife", $mensaje, $headers);
 
 print_r($mensaje);
 ?>
